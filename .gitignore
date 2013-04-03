@@ -16,6 +16,8 @@ bin/fsevent_watch_guard
 Makefile
 
 .guard_result
+tmp
+coverage
 
 ## MAC OS
 .DS_Store
